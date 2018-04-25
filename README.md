@@ -22,3 +22,4 @@ We ask you to write the following functions:
 [MDN Call](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
 
 [MDN Apply](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
+<p data-visibility='hidden'>PHRG Bind, Call, Apply Lab</p>

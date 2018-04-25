@@ -9,3 +9,5 @@ languages:
   - javascript
 resources:
   - 3
+
+parent_template: git@github.com:learn-co-curriculum/js-object-oriented-bind-call-apply-this-lab.git
