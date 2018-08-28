@@ -19,6 +19,9 @@ We ask you to write the following functions:
 
 *Don't forget to make use of MDN's call and apply documentation!*
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-object-oriented-bind-call-apply-this-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-object-oriented-bind-call-apply-this-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 [MDN Call](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
 
 [MDN Apply](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
